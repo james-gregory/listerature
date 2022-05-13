@@ -1,4 +1,4 @@
 tox
 black
 isort
--e
+-e .
