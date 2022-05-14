@@ -1,0 +1,17 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+docs/Makefile
+docs/make.bat
+docs/source/conf.py
+docs/source/index.rst
+examples/example.py
+reading_gist.egg-info/PKG-INFO
+reading_gist.egg-info/SOURCES.txt
+reading_gist.egg-info/dependency_links.txt
+reading_gist.egg-info/top_level.txt
+src/timeline/__init__.py
+src/timeline/module1.py
+tests/__init__.py
+tests/test_module1.py
